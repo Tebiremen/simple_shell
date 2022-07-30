@@ -1,5 +1,4 @@
-Aitebiremen Okojie and Samuel Iyebhora
-alt text
+Aitebiremen Okojie and Samuel Iyebhora.
 
 Description
 A simple UNIX command interpreter that replicates functionalities of the simple shell (sh). Additional functions are also included. This program was written entirely in C as a milestone project for ALX Africa Software Engineering.
@@ -29,5 +28,6 @@ setenv [var][value]	Set an environment variable and value. If the variable exist
 unsetenv [var]	Remove an environment variable.
 cd [dir]	Change the directory.
 help [built-in]	Read documentation for a built-in.
+
 Credits
-All code written by Aitebiremen Okojie and Samuel Iyebhora
+All code written by Aitebiremen Okojie and Samuel Iyebhora.
