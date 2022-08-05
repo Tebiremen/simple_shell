@@ -1,4 +1,5 @@
 # Simple shell Project
+![alt text](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/235/shell.jpeg)
 
 * CONTRIBUTORS
 	* Aitebiremen Okojie
@@ -23,16 +24,20 @@ In non-interactive mode, echo your desired command and pipe it into the program 
 
 In non-interactive mode, the program will exit after finishing your desired command(s).
 
-Included Built-Ins
+## Included Built-Ins
 Our shell has support for the following built-in commands:
 
-Command	Definition
-`exit [n]`	Exit the shell, with an optional exit status, n.
-`env`	Print the environment.
-`setenv [var][value]`	Set an environment variable and value. If the variable exists, the value will be updated.
-`unsetenv [var]`	Remove an environment variable.
-`cd [dir]`	Change the directory.
-`help [built-in]`	Read documentation for a built-in.
+| Command             | Definition                                                                                |
+| ------------------- | ----------------------------------------------------------------------------------------- |
+| exit [n]            | Exit the shell, with an optional exit status, n.                                          |
+| env                 | Print the environment.                                                                    |
+| setenv [var][value] | Set an environment variable and value. If the variable exists, the value will be updated. |
+| unsetenv [var]      | Remove an environment variable.                                                           |
+| cd [dir]            | Change the directory.                                                                     |
+| help [built-in]     | Read documentation for a built-in.                                                        |
 
-Credits
-All code written by Aitebiremen Okojie and Samuel Iyebhora <sammykingx>.
+
+## Credits
+All code written by:
+* AITEBIREMEN OKOJIE
+* SAMUEL IYEBHORA <sammykingx>.
